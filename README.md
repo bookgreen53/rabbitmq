@@ -1,4 +1,4 @@
-#  Rabbit Deployment 🚀 ( Single  Node ) | ( Cluster Mode )
+# 🚀  Rabbit Deployment ( Single  Node ) | ( Cluster Mode )
 
 This repository contains **Kubernetes deployment configurations** for running **Rabbitmq3-Management** in two different modes:
 

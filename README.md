@@ -53,4 +53,4 @@ kubectl apply -f rabbitmq-cluster-node.yaml
 kubectl get pods -l app=rabbitmq
 kubectl get svc rabbitmq-svc
 ```
-*** Point :  these are For Default Namespace in k8s
+*** Point :  these are For Default Namespace in k8s.
